@@ -1,1 +1,2 @@
 https://statsapi.web.nhl.com/api/v1/teams
+https://statsapi.web.nhl.com/api/v1/teams/1/roster
